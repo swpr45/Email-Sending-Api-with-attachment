@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5KDGfMNB2cr3J87uUbVlFukD29AhseYZIfG8GRNTHcI=",
+  "Source": "MailApi",
+  "BasePath": "_content/MailApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
